@@ -26,7 +26,7 @@ This system can be used for sales prospecting, lead generation, and business int
 Below is the visual representation of the n8n workflow.
 
 <p align="center">
-  <img src="workflow.png" width="900">
+  <img src="Workflow2.png" width="900">
 </p>
 
 ---
